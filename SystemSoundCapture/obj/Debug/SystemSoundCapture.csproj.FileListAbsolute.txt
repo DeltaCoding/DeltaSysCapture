@@ -1,0 +1,7 @@
+c:\users\tizian q\documents\visual studio 2013\Projects\SystemSoundCapture\SystemSoundCapture\bin\Debug\SystemSoundCapture.exe.config
+c:\users\tizian q\documents\visual studio 2013\Projects\SystemSoundCapture\SystemSoundCapture\bin\Debug\SystemSoundCapture.exe
+c:\users\tizian q\documents\visual studio 2013\Projects\SystemSoundCapture\SystemSoundCapture\bin\Debug\SystemSoundCapture.pdb
+c:\users\tizian q\documents\visual studio 2013\Projects\SystemSoundCapture\SystemSoundCapture\bin\Debug\CSCore.xml
+c:\users\tizian q\documents\visual studio 2013\Projects\SystemSoundCapture\SystemSoundCapture\obj\Debug\SystemSoundCapture.csprojResolveAssemblyReference.cache
+c:\users\tizian q\documents\visual studio 2013\Projects\SystemSoundCapture\SystemSoundCapture\obj\Debug\SystemSoundCapture.exe
+c:\users\tizian q\documents\visual studio 2013\Projects\SystemSoundCapture\SystemSoundCapture\obj\Debug\SystemSoundCapture.pdb
